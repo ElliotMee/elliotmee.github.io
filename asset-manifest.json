@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/elliotmee/static/css/main.a617e044.chunk.css",
+    "main.js": "/elliotmee/static/js/main.71c44313.chunk.js",
+    "main.js.map": "/elliotmee/static/js/main.71c44313.chunk.js.map",
+    "runtime-main.js": "/elliotmee/static/js/runtime-main.dc7c0f28.js",
+    "runtime-main.js.map": "/elliotmee/static/js/runtime-main.dc7c0f28.js.map",
+    "static/js/2.12b867cb.chunk.js": "/elliotmee/static/js/2.12b867cb.chunk.js",
+    "static/js/2.12b867cb.chunk.js.map": "/elliotmee/static/js/2.12b867cb.chunk.js.map",
+    "static/js/3.8e6acc31.chunk.js": "/elliotmee/static/js/3.8e6acc31.chunk.js",
+    "static/js/3.8e6acc31.chunk.js.map": "/elliotmee/static/js/3.8e6acc31.chunk.js.map",
+    "index.html": "/elliotmee/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/elliotmee/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.12b867cb.chunk.js.LICENSE.txt": "/elliotmee/static/js/2.12b867cb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/elliotmee/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc7c0f28.js",
+    "static/js/2.12b867cb.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.71c44313.chunk.js"
+  ]
+}
